@@ -1,0 +1,6 @@
+<directory name="WoeUSB" rev="38" vrev="38" srcmd5="565b8cbb8a93e229df4917faa98f069e">
+  <serviceinfo code="succeeded" xsrcmd5="1d3bc41bab96fac51a99e3b4264989f1" />
+  <entry name="WoeUSB.changes" md5="c08fca946f26b91cb65da18c2e2ed681" size="6228" mtime="1638177094" />
+  <entry name="WoeUSB.spec" md5="7f2460a26858cc0a7a154aa9b66e97b7" size="2084" mtime="1638177094" />
+  <entry name="_service" md5="8ef22141f00f9fbe44b70072410645f4" size="529" mtime="1691413119" />
+</directory>
