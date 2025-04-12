@@ -62,7 +62,7 @@ install -Dm 644 share/woeusb/woeusb.svg %{buildroot}%{_datadir}/woeusb/woeusb.sv
 %doc README.md
 %license LICENSES/
 %{_sbindir}/woeusb
-%{_mandir}/man1/woeusb.1%{?ext_man}
+%{_mandir}/man1/woeusb.1*
 %dir %{_datadir}/woeusb
 %{_datadir}/woeusb/woeusb.svg
 
